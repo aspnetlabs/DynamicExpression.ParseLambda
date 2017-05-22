@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks; 
     using System.Linq.Dynamic;
-    namespace ConsoleApp3
+    namespace Console1
     {
         class Program
         {
